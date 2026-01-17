@@ -1,6 +1,6 @@
 ## ArgoCD deploy jsp my app to kubernetes
 
-Задеплоил моё приложение на <b>JSP</b> в Kubernetes
+Задеплоил <b>JSP</b> приложение  в Kubernetes
 
 <img src="https://github.com/xiozip/argo-cd-ci-cd/blob/main/myjspapp.png">
 <br>
