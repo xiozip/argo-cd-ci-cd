@@ -4,8 +4,7 @@
 
 <img src="https://github.com/xiozip/argo-cd-ci-cd/blob/main/myjspapp.png">
 <br>
-<br>
-<br>
+
 Настроил <b>CI\CD</b> в ArgoCD 
 <img src="https://github.com/xiozip/argo-cd-ci-cd/blob/main/argo-cd.png">
 Docker образ приложения доступен по адресу :
