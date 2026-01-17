@@ -2,7 +2,7 @@
 #
 FROM tomcat:latest
 
-COPY  /app/myapp.war    /usr/local/tomcat/webapps/
+COPY  /app/myapp.war    /usr/local/tomcat/webapps/ROOT.war
 
 EXPOSE 8080
 
